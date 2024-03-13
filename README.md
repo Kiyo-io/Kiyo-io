@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🍪
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I'm also learning Japanese 
 - 🔭 I’m currently working on a few web development projects at once 😅🤷🏽‍♀️
